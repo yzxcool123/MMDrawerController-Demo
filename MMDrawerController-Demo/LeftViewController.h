@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  LeftViewController.h
 //  MMDrawerController-Demo
 //
 //  Created by YeZhongxiang on 16/4/29.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface LeftViewController : UIViewController
 
 @end
-
